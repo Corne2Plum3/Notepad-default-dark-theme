@@ -10,5 +10,4 @@ It's just the default theme of Notepad++ but dark.
 
 # Screenshots
 imgur: https://imgur.com/a/9UaucEv
-
-
+Note: The font used is Inconsolata, but by default, no font is defined (it will use the default font). You can custom the font in Settings > Style Configurator... > Font Name.
